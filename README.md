@@ -2,7 +2,7 @@
 
 *Student Project for WGU's C482 - Software I Course*
 
-## Completed and passed on 3/27/2020
+## Project Complete on 4/2020
 > The submission includes a competent inventory management application. 
 > The application includes the required screens.
 > The functionality to add, modify, and delete parts and products was observed.
